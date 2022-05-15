@@ -4,11 +4,19 @@
   </h1>
 </div>
 
-# feedWidget
+<div align="center">
+  <img width="180" src="web/src/assets/thought.svg" alt="Logo">
+  <h1>feedWidget</h1>
+</div>
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/ShadowsS01/feedWidget?color=%238257e6" alt="Licença"></a>
+  <img src="https://img.shields.io/github/languages/top/ShadowsS01/feedWidget?color=%238257e6" alt="Principal linguagem do projeto">
+</p>
+<br/>
+
+## Sobre
 
 Um projeto full-stack com envio de feedback.
-
-[![licence mit](https://img.shields.io/badge/licence-MIT-%238257e6)](/LICENSE)
 
 ## Sobre
 
