@@ -1,9 +1,3 @@
-<div align="center"->
-  <h1 align="center">
-   🚧  Projeto em construção...  🚧
-  </h1>
-</div>
-
 <div align="center">
   <img width="180" src="web/src/assets/thought.svg" alt="Logo">
   <h1>feedWidget</h1>
