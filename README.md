@@ -17,8 +17,8 @@ Projeto que tem um Widget para envio de feedbacks, salvamento dos feedbacks em u
 
 ## Créditos
 
-> Projeto criado e desenvolvido junto ao evento online e gratuito [NLW Return](https://nextlevelweek.com/episodios/impulse/aula-1/edicao/8) da [Rocketseat](https://www.rocketseat.com.br/).
+> Projeto criado e desenvolvido junto ao evento online e gratuito [NLW Return](https://nextlevelweek.com/episodios/impulse/aula-1/edicao/8) da [RocketSeat](https://www.rocketseat.com.br/).
 
 ## Licença
 
-Este projeto esta sobe a licença [MIT](/LICENSE).
+Este projeto esta sob a licença [MIT](/LICENSE).
