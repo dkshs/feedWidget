@@ -4,14 +4,52 @@ Front-end da aplicação utilizando [Vite.js](https://vitejs.dev/).
 
 ## Tecnologias utilizadas
 
-- [Vite.js](https://vitejs.dev/) - Vite (palavra francesa para "rápido", pronunciada/vit/, como "veet") é uma ferramenta de construção que visa fornecer uma experiência de desenvolvimento mais rápida e enxuta para projetos web modernos.
+- [Vite.js](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+  - [tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)
+  - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar)
+- [Headless UI](https://headlessui.dev/)
+- [Phosphor Icons](https://phosphoricons.com/)
+- [html2canvas](https://html2canvas.hertzen.com/)
 
-- [Tailwind CSS](https://tailwindcss.com/) - Uma estrutura CSS de utilidade para o desenvolvimento rápido de interface do usuário.
-  - [tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - Um plug-in que fornece uma redefinição básica para estilos de formulário que facilitam a substituição de elementos de formulário com utilitários.
-  - [tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Adiciona utilitários de estilo para barras de rolagem no Firefox e navegadores baseados em webkit.
+## Como executar o projeto
 
-- [Headless UI](https://headlessui.dev/) - Componentes de interface do usuário totalmente sem estilo e totalmente acessíveis.
+Para executar o projeto você precisa ter o [Node.js](https://nodejs.dev) e o [Git](https://git-scm.com) instalados na sua maquina. Você também precisará de um editor de código, eu utilizei o [VSCode](https://code.visualstudio.com).
 
-- [Phosphor Icons](https://phosphoricons.com/) - Phosphor é uma família de ícones flexível para interfaces, diagramas, apresentações.
+NOTA! Para conseguir executar o Frontend será necessário ter o backend rodando, então se você não tem o backend, entre na pasta [server](../server/) deste repo e execute o backend. Só seguir o [README](../server/README.md)!
 
-- [html2canvas](https://html2canvas.hertzen.com/) - Screenshots com JavaScript.
+### 1. Clone esse repositório
+
+```bash
+git clone https://github.com/ShadowsS01/feedWidget.git
+```
+
+### 2. Acesse a pasta do projeto
+
+```bash
+cd feedWidget/web
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Configurar variáveis de ambiente
+
+Copie o arquivo `.env.example` neste diretório para `.env.local` *(que será ignorado pelo Git)*:
+
+```bash
+cp .env.example .env.local
+```
+
+### 5. Execute a aplicação em modo de desenvolvimento
+
+```bash
+npm run dev
+```
+
+## Licença
+
+Este projeto esta sob a licença [MIT](../LICENSE).
