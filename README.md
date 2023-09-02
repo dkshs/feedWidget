@@ -3,8 +3,8 @@
   <h1>feedWidget</h1>
 </div>
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/ShadowsS01/feedWidget?color=%238257e6" alt="Licença"></a>
-  <img src="https://img.shields.io/github/languages/top/ShadowsS01/feedWidget?color=%238257e6" alt="Principal linguagem do projeto">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/dkshs/feedWidget?color=%238257e6" alt="Licença"></a>
+  <img src="https://img.shields.io/github/languages/top/dkshs/feedWidget?color=%238257e6" alt="Principal linguagem do projeto">
 </p>
 <br/>
 

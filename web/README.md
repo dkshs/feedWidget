@@ -21,7 +21,7 @@ NOTA! Para conseguir executar o Frontend será necessário ter o backend rodando
 ### 1. Clone esse repositório
 
 ```bash
-git clone https://github.com/ShadowsS01/feedWidget.git
+git clone https://github.com/dkshs/feedWidget.git
 ```
 
 ### 2. Acesse a pasta do projeto
